@@ -1,0 +1,11 @@
+{
+  "name": "my_pusher_backend",
+  "version": "1.0.0",
+  "description": "A sophisticated backend component utilizing Pusher for real-time web functionalities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified \"&& exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
